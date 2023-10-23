@@ -1,4 +1,6 @@
-# Client
+# Screen Reader SPA Test
+
+Single Page App using Angular to test how Screen Readers like JAWS, NVDA read pages automatically upon navigation.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.9.
 
